@@ -1,0 +1,5 @@
+black=dubbospi.interf.impl.BlackCar
+red=dubbospi.interf.impl.RedCar
+benz=dubbospi.interf.autowired.BenzCar
+dubbospi.interf.warper.CarWarper
+dubbospi.interf.warper.CarWarper2
